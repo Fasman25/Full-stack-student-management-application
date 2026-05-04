@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv
+
+# Pipenv
+Pipfile.lock
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
